@@ -1,4 +1,4 @@
-Требования:
-   1. Установленный python,
-   2. При первом запуске открываем Setup.exe,
-   3. Если ругается антивирус то добавляем в белый список.
+Requement:
+   1. Installes python,
+   2. open Setup.exe,
+   3. It's Dont virus
